@@ -1,6 +1,6 @@
 # ETS Pemrograman Web A Brilian (5025241213)
 ## Membuat Landing Page
-Link YT : 
+Link YT : https://youtu.be/T_bQ3rsorwY
 
 Dalam ETS kali ini, disuruh untuk membuat Landing Page Travel yang harus memuat fitur-fitur berikut : 
 1. Header / Hero Section
